@@ -1,0 +1,6 @@
+URL=http://localhost:3030
+ProductsService=/products
+StoreService=/stores
+CategoryService=/services
+VersionService=/version
+HealthCheckService=/healthcheck
